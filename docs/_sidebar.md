@@ -1,6 +1,6 @@
    - SI Rules
       - DVCA mapping rule
       - INTR mapping rule
-    - AC Rules
+   - AC Rules
       - Ranking Matrix
- - [Workflow Discussion](rules-doc.md)
+ - [Rules Documentation](rules-doc.md)
